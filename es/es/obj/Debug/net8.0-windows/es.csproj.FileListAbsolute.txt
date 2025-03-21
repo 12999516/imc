@@ -1,0 +1,16 @@
+C:\Users\Sebastiano\Desktop\imc\es\es\bin\Debug\net8.0-windows\es.exe
+C:\Users\Sebastiano\Desktop\imc\es\es\bin\Debug\net8.0-windows\es.deps.json
+C:\Users\Sebastiano\Desktop\imc\es\es\bin\Debug\net8.0-windows\es.runtimeconfig.json
+C:\Users\Sebastiano\Desktop\imc\es\es\bin\Debug\net8.0-windows\es.dll
+C:\Users\Sebastiano\Desktop\imc\es\es\bin\Debug\net8.0-windows\es.pdb
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.Form1.resources
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.csproj.GenerateResource.cache
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.AssemblyInfoInputs.cache
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.AssemblyInfo.cs
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.csproj.CoreCompileInputs.cache
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.dll
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\refint\es.dll
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.pdb
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\es.genruntimeconfig.cache
+C:\Users\Sebastiano\Desktop\imc\es\es\obj\Debug\net8.0-windows\ref\es.dll
